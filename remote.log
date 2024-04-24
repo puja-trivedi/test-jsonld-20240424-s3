@@ -1,2 +1,2 @@
 950b06a2-558a-4ce2-9ef3-c96eaa8c8893 bucket=jsonld-files-test-20240423 datacenter=US encryption=none host=s3.amazonaws.com name=my-s3-remote port=80 publicurl=https://jsonld-files-test-20240423.s3.us-west-2.amazonaws.com storageclass=STANDARD type=S3 timestamp=1713896487s
-ad513f3e-0750-48c4-b402-caa62e0d6d22 bucket=jsonld-files-test-20240424 datacenter=US encryption=none host=s3.amazonaws.com name=public-s3 port=80 storageclass=STANDARD type=S3 timestamp=1713978588s
+ad513f3e-0750-48c4-b402-caa62e0d6d22 bucket=jsonld-files-test-20240424 datacenter=US encryption=none host=s3.amazonaws.com name=public-s3 port=80 publicurl=https://jsonld-files-test-20240424.s3-us-east-1.amazonaws.com storageclass=STANDARD type=S3 timestamp=1713978816s
